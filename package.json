@@ -1,0 +1,19 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "nodejs"
+  ],
+  "author": "Emir Tetik",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.0.2"
+  }
+}
